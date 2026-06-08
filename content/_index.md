@@ -14,5 +14,3 @@ Recent Additions
 {{< card title="1st Piece" subtitle="Subtitle 1." >}}
 {{< card title="2nd Piece" subtitle="Subtitle2." >}}
 {{< /cards >}}
-
-Powered by: [Hextra](https://imfing.github.io/hextra).
