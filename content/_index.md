@@ -11,6 +11,6 @@ A curated collection of talks, essays, experiments, projects, and tutorials wort
 Recent Additions
 
 {{< cards >}}
-{{< card link="/collection/stripe-projects-visualizer/" title="Stripe Projects Visualizer" subtitle="When years of engineering become an afternoon project." >}}
+{{< card link="/the_devrel_collection/collection/stripe-projects-visualizer/" title="Stripe Projects Visualizer" subtitle="When years of engineering become an afternoon project." >}}
 {{< card title="2nd Piece" subtitle="Subtitle2." >}}
 {{< /cards >}}

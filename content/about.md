@@ -21,4 +21,4 @@ The tension I see and that I see reflected accross articles and social media, an
 
 This collection is my attemp to explore that tension through examples. To gather wooden horses and ask what made me stop and try to capture them?
 
-I hope many wooden horses are brought ashore, or fished, or found inside bottles. I hope they reach m work that made you stop and ask "Who made this?", I'd love to hear about it.e, and when they do, I hope to proudly exhibit them here. If you've come across a piece of
+I hope many wooden horses are brought ashore, or fished, or found inside bottles. I hope they reach m work that made you stop and ask "Who made this?", I'd love to hear about it.e, and when they do, I hope to proudly exhibit them here. If you've come across a piece of work that made you stop and ask "Who made this?" I'd love to hear about it.
