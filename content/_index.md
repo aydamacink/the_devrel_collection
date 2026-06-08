@@ -1,17 +1,18 @@
 ---
-title: My Site
+title: The DevRel Collection
 toc: false
 ---
 
-This is the landing page.
+<br></br>
+A curated collection of talks, essays, experiments, projects, and tutorials worth highlighting in the age of AI. What stays? What gets displaced? We are also exploring the question of Taste. Is it just a construction, or is it something more tangible?
 
 ## Explore
 
+Recent Signals
+
 {{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
-  {{< card link="about" title="About" icon="user" >}}
+{{< card title="1st Piece" subtitle="Subtitle 1." >}}
+{{< card title="2nd Piece" subtitle="Subtitle2." >}}
 {{< /cards >}}
 
-## Documentation
-
-For more information, visit [Hextra](https://imfing.github.io/hextra).
+Powered by: [Hextra](https://imfing.github.io/hextra).
