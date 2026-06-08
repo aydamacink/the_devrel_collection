@@ -8,7 +8,7 @@ A curated collection of talks, essays, experiments, projects, and tutorials wort
 
 ## Explore
 
-Recent Signals
+Recent Additions
 
 {{< cards >}}
 {{< card title="1st Piece" subtitle="Subtitle 1." >}}
