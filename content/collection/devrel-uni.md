@@ -1,7 +1,7 @@
+---
 title: "DevRel UNI"
 date: 2026-06-20T22:52:22+02:00
 draft: false
-
 ---
 
 ### Project
