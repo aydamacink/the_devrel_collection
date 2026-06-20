@@ -13,4 +13,5 @@ Recent Additions
 {{< cards >}}
 {{< card link="/the_devrel_collection/collection/stripe-projects-visualizer/" title="Stripe Projects Visualizer" subtitle="When years of engineering become an afternoon project." >}}
 {{< card link="/the_devrel_collection/collection/julia-evans-zines/" title="Julia Evan's Zines" subtitle="Wizard Zines programming zines by Julia Evans" >}}
+{{< card link="/the_devrel_collection/collection/devrel-uni/" title="DevRel University" subtitle="Start Your Developer Relations Journey Today" >}}
 {{< /cards >}}
