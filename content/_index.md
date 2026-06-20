@@ -12,5 +12,5 @@ Recent Additions
 
 {{< cards >}}
 {{< card link="/the_devrel_collection/collection/stripe-projects-visualizer/" title="Stripe Projects Visualizer" subtitle="When years of engineering become an afternoon project." >}}
-{{< card title="2nd Piece" subtitle="Subtitle2." >}}
+{{< card link="/the_devrel_collection/collection/julia-evans-zines/" title="Julia Evan's Zines" subtitle="Wizard Zines programming zines by Julia Evans" >}}
 {{< /cards >}}

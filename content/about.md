@@ -15,10 +15,10 @@ In our group sessions, we discussed about taste.
 
 That got me thinking.
 
-Having a background in humanities, I can not help but think about my favorist sociologist, Pierre Bordieu. He argued that "taste" was socially produced and created through one's upbringing, education, social class and accumulated cultural capital.
+Having a background in humanities, I cannot help but think about my favorite sociologist, Pierre Bordieu. He argued that "taste" was socially produced and created through one's upbringing, education, social class and accumulated cultural capital.
 
-The tension I see and that I see reflected accross articles and social media, and as well in my brain is: Is taste in the AI era a way to gatekeep, just by arguing that something has "taste" or not? Or is "taste" maybe gaining a new definition in this era that separates AI Slop, from the human touch, that paints it with human experience and takes the time to carve the little precious wooden horses?"
+The tension I see and that I see reflected across articles and social media, and as well in my brain is: Is taste in the AI era a way to gatekeep, just by arguing that something has "taste" or not? Or is "taste" maybe gaining a new definition in this era that separates AI Slop, from the human touch, that paints it with human experience and takes the time to carve the little precious wooden horses?"
 
-This collection is my attemp to explore that tension through examples. To gather wooden horses and ask what made me stop and try to capture them?
+This collection is my attempt to explore that tension through examples. To gather wooden horses and ask what made me stop and try to capture them?
 
-I hope many wooden horses are brought ashore, or fished, or found inside bottles. I hope they reach m work that made you stop and ask "Who made this?", I'd love to hear about it.e, and when they do, I hope to proudly exhibit them here. If you've come across a piece of work that made you stop and ask "Who made this?" I'd love to hear about it.
+I hope many wooden horses are brought ashore, or fished, or found inside bottles. I hope they reach me, and when they do, I hope to proudly exhibit them here. If you've come across a piece of work that made you stop and ask "Who made this?" I'd love to hear about it.
